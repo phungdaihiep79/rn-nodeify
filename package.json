@@ -1,10 +1,10 @@
 {
-  "name": "rn-nodeify",
+  "name": "@phungdaihiep/rn-nodeify",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tradle/rn-nodeify.git"
+    "url": "https://github.com/phungdaihiep79/rn-nodeify.git"
   },
-  "version": "10.3.0",
+  "version": "10.3.1",
   "preferGlobal": true,
   "bin": "./cmd.js",
   "license": "MIT",
